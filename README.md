@@ -19,12 +19,12 @@ Here are some ideas to get you started:
 -->
 
 ### Mis Estadísticas de GitHub:</h3>
-![My Stats](https://github-readme-stats.vercel.app/api?username=AngelRodriguezFaya&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![My Stats](https://github-readme-stats.vercel.app/api?username=AngelRodriguezFaya&theme=catppuccin_latte&show_icons=true&hide_border=true&count_private=true)
 
 <p align="center">
 <a href="https://github.com/AngelRodriguezFaya">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AngelRodriguezFaya"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelRodriguezFaya&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AngelRodriguezFaya&theme=catppuccin_latte&show_icons=true&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelRodriguezFaya&layout=donut-vertical"/>
 </a>
 </p>
 
