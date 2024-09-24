@@ -35,7 +35,9 @@ Here are some ideas to get you started:
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AngelRodriguezFaya&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
+<!--
 <br/>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 </a>[![](https://visitcount.itsvg.in/api?id=AngelRodriguezFaya&icon=0&color=8)](https://visitcount.itsvg.in)
 
