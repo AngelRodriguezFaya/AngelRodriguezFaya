@@ -1,8 +1,8 @@
 ## ¡Hola!👋 Soy Ángel.
 
 - 📚 Soy estudiante del grado en Ingeniería Informática de la Universidad de Granada, con mención en Ingeniería del Software.
-- 🔎 En mi perfil encontrarás todos los proyectos que he realizado, tanto en el grado como por mi cuenta.
-- 📥 Puedes contactar conmigo por correo: arodriguezfaya16@gmail.com o por mi perfil de Linkedin.
+- 🔎 En mi perfil encontrarás todos los proyectos que he realizado.
+- 📥 Para contactar conmigo escríbeme por correo: arodriguezfaya16@gmail.com.
 <!--
 **AngelRodriguezFaya/AngelRodriguezFaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,12 +25,6 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelRodriguezFaya&layout=compact"/>
 </a>
 </p>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AngelRodriguezFaya&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AngelRodriguezFaya&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 <!--
 <br/>
