@@ -2,8 +2,10 @@
 
 - 📚 Soy estudiante del grado en Ingeniería Informática de la Universidad de Granada, con mención en Ingeniería del Software.
 - 🔎 En mi perfil encontrarás todos los proyectos que he realizado.
-- 📥 Para contactar conmigo escríbeme por correo: arodriguezfaya16@gmail.com.
+
 <!--
+- 📥 Para contactar conmigo escríbeme por correo: arodriguezfaya16@gmail.com.
+
 **AngelRodriguezFaya/AngelRodriguezFaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,7 +18,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 # 📊 GitHub Stats:
 <p align="center">
@@ -25,7 +27,7 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelRodriguezFaya&layout=compact"/>
 </a>
 </p>
-
+-->
 <!--
 <br/>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
