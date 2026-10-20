@@ -18,6 +18,8 @@
   
 * 🔎 En mi perfil encontrarás los proyectos que he realizado, tanto a nivel académico como personales.
 
+<br/>
+
 ## 🛠️ Lenguajes y Tecnologías.
 Durante mis estudios y proyectos personales, he trabajado principalmente con C++ y Java, aunque he llegado a trabajar con muchas otras tecnologías:
 
@@ -40,7 +42,7 @@ Durante mis estudios y proyectos personales, he trabajado principalmente con C++
 <p align="center">
   <a href="https://github.com/AngelRodriguezFaya">
     <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=AngelRodriguezFaya&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
-    <img height="200em" src="https://vani-stats.vercel.app/api?username=AngelRodriguezFaya&theme=dark" alt="Top Languages - Vani Stats" />
+    <img height="240em" src="https://vani-stats.vercel.app/api?username=AngelRodriguezFaya&theme=dark" alt="Top Languages - Vani Stats" />
   </a>
 </p>
 
