@@ -39,8 +39,8 @@ Durante mis estudios y proyectos personales, he trabajado principalmente con C++
 ## 📊 Mis Estadísticas en GitHub
 <p align="center">
   <a href="https://github.com/AngelRodriguezFaya">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AngelRodriguezFaya&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
-    <img height="180em" src="https://vani-stats.vercel.app/api?username=AngelRodriguezFaya&theme=dark" alt="Top Languages - Vani Stats" />
+    <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=AngelRodriguezFaya&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+    <img height="200em" src="https://vani-stats.vercel.app/api?username=AngelRodriguezFaya&theme=dark" alt="Top Languages - Vani Stats" />
   </a>
 </p>
 
