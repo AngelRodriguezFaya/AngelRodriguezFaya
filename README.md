@@ -2,7 +2,7 @@
   
 # ¡Hola!👋 Soy Ángel.
 
-#### ¡Bienvenido/a a mi perfil de GitHub!
+¡Bienvenido/a a mi perfil de GitHub!
 
 </div>
 
@@ -22,21 +22,15 @@
 Durante mis estudios y proyectos personales, he trabajado principalmente con C++ y Java, aunque he llegado a trabajar con muchas otras tecnologías:
 
 
-**Lenguajes de Programación:**
-
-<br/>
+### Lenguajes de Programación:
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Godot](https://img.shields.io/badge/Godot-%23478CBF.svg?style=for-the-badge&logo=godot-engine&logoColor=white)
 
-**Desarrollo Web, Gráfico y Móvil:**
-
-<br/>
+###Desarrollo Web, Gráfico y Móvil:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Three.js](https://img.shields.io/badge/three.js-black.svg?style=for-the-badge&logo=three.js&logoColor=white)
 
-**Herramientas, Sistemas y Entornos:**
-
-<br/>
+###Herramientas, Sistemas y Entornos:
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
@@ -48,6 +42,6 @@ Durante mis estudios y proyectos personales, he trabajado principalmente con C++
   </a>
 </p>
 
-### 📫 Contacto
+## 📫 Contacto
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angel-rodriguez-faya/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arodriguezfaya16@gmail.com)
